@@ -4,5 +4,11 @@ These are the styles for the whole document
 
 */
 .main-title {
-    background: red;
+    background: rgb(192, 22, 22);
+}
+
+.fancy-font, .navbar {
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    color: rgba(219, 101, 5, 0.993)
 }
